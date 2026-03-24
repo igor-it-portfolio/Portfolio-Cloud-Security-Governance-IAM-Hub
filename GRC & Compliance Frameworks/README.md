@@ -1,20 +1,32 @@
-# Cloud Infrastructure Projects (AWS)
+# 🛡️ GRC & Compliance Frameworks (Governance, Risk & Compliance)
 
-Hands-on cloud projects focused on infrastructure, security and operational best practices.
+Este repositório é o pilar de governança do meu portfólio. Aqui demonstro a aplicação de frameworks internacionais, gestão de riscos e conformidade regulatória para ambientes de dados críticos.
+*This section is the governance pillar of my portfolio. Here I demonstrate the application of international frameworks, risk management, and regulatory compliance for critical data environments.*
 
-## 🔗 Repositories
-  
-- ☁️ **AWS EC2 Secure Environment**
-  👉 [https://github.com/Igor-Pantoja/aws-ec2-secure-environment](https://github.com/igor-it-portfolio/Clound-lab-05-aws-ec2-linux)
+---
 
-- 💾 **Cloud Backup with S3**
-  👉[ https://github.com/Igor-Pantoja/aws-backup-s3](https://github.com/igor-it-portfolio/Clound-lab-06-backup-aws-s3)
+## 🚀 Upcoming Projects & Documentation / Projetos em Desenvolvimento
 
-- ⚡ **Terraform AWS Hub: Cloud Infrastructure Automation Basics**
-  👉https://github.com/igor-it-portfolio/terraform-aws-automation
+### 📋 **Data Governance & Privacy (LGPD/GDPR)**
+* **Privacy Impact Assessment (PIA) for Cloud Migration**
+    👉 [Coming Soon / Em breve]
 
-## Topics covered
-- EC2 provisioning
-- IAM and access control
-- Backup strategies
-- Cloud security
+
+---
+
+## 🛠️ Expertise / Domínios de Conhecimento
+- **ISO/IEC 27001:** Sistemas de Gestão de Segurança da Informação (SGSI).
+- **LGPD:** Lei Geral de Proteção de Dados (Brasil).
+- **NIST CSF:** Cybersecurity Framework para identificação e resposta.
+- **Data Lifecycle:** Do ciclo de vida do documento físico à governança em nuvem.
+
+---
+
+## 🎯 Strategic Objective / Objetivo Estratégico
+**EN:** To bridge the gap between traditional Records Management and Modern Cloud Governance, ensuring that technical implementations are always backed by solid compliance and risk management frameworks.
+
+**PT-BR:** Unificar a gestão tradicional de arquivos e documentos com a Governança de Nuvem moderna, garantindo que implementações técnicas sejam sempre sustentadas por frameworks sólidos de compliance e gestão de riscos.
+
+---
+
+[⬅️ Back to Central Hub](../)
