@@ -9,7 +9,7 @@ Este repositório é o pilar de governança do meu portfólio. Aqui demonstro a 
 
 ### 📋 **Governance,Risk,Compliance** 
 
-**EDCF - Infrastructure as Code (IaC) for Data Custody** 👉 [[Acesse o Repositório]](https://github.com/igor-it-portfolio/edcf-aws-terraform-compliance)
+**EDCF - Data Custody & Compliance Framework (WORM)** 👉 [[Acesse o Repositório]](https://github.com/igor-it-portfolio/edcf-aws-terraform-compliance)
  *Foco: Framework de governança para migração de ativos físicos para digital, assegurando imutabilidade de dados (WORM), retenção normativa e proteção contra descarte não autorizado em   conformidade com a LGPD.*
 
  **Data Governance & Cloud Foundations**👉[Access Repository](https://github.com/igor-it-portfolio/data-governance-cloud-foundations-Project1)  
