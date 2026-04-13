@@ -19,15 +19,15 @@ Este é o meu hub central de Governança de Dados, GRC e Segurança em Nuvem. Aq
 **PT-BR:** Gestão de Riscos, Auditoria, ISO 27001 e conformidade LGPD aplicadas à infraestrutura.  
 **EN:** Risk Management, Auditing, ISO 27001, and LGPD/GDPR compliance applied to infrastructure.
 
-### 📂 [2. Identity Governance & Cloud Security](https://github.com/igor-it-portfolio/Portfolio-Cloud-Security-Governance-IAM-Hub/tree/main/IAM%20Analyst%20%26%20Cloud%20Security)
+### 📂 [2. Identity Governance & Cloud Security](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/2.Identity%20Governance%20%26%20Cloud%20Security)
 **PT-BR:** Gestão de Identidades, Privilégio Mínimo, Políticas de Acesso e Criptografia (KMS).  
 **EN:** Identity & Access Management, Least Privilege, Access Policies, and Encryption (KMS).
 
-### 📂 [3. Compliance Observability & SRE](https://github.com/igor-it-portfolio/Portfolio-Cloud-Security-Governance-IAM-Hub/tree/main/Security%20Observability%20%26%20SRE)
+### 📂 [3. Compliance Observability & SRE](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/3.Compliance%20Observability%20%26%20SRE)
 **PT-BR:** Monitoramento de segurança, Dashboards de conformidade e detecção de incidentes.  
 **EN:** Security monitoring, Compliance Dashboards, and incident detection.
 
-### 📂 [4. Secure Infrastructure Hardening](https://github.com/igor-it-portfolio/Portfolio-Cloud-Security-Governance-IAM-Hub/tree/main/Linux%20Sec%20%26%20SystemAdm%20Hardening)
+### 📂 [4. Secure Infrastructure Hardening](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/4.Secure%20Infrastructure%20%26%20Hardening)
 **PT-BR:** Administração segura de servidores Linux, automação Bash e endurecimento de sistemas.  
 **EN:** Secure Linux administration, Bash automation, and OS hardening.
 
